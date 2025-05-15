@@ -48,6 +48,6 @@ I love learning new tech by building small projects & teaching others what I lea
 Thanks for visiting my profile 🙌
 
 
-![snake gif](https://raw.githubusercontent.com/KaushalGoud/KaushalGoud/output/github-contribution-grid-snake.svg)
+
 
 
