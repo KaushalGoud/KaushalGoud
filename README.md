@@ -18,22 +18,6 @@ Welcome to my GitHub profile! I'm passionate about technology, development, and 
 
 - ⚙️ Tools: Git, GitHub, VS Code
 
-
-
-### 👯 I’m looking to collaborate on
-- Frontend or full-stack web applications
-- Open source security or blockchain-based projects
-
-### 🤔 I’m looking for help with
-- Optimizing JavaScript code
-- Understanding smart contract development
-
-### 💬 Ask me about
-- Frontend Web Development
-- Learning C, C++, and JavaScript
-- Ethical hacking basics
-- Study hacks & productivity
-
 ### 📫 How to reach me
 - Email: kaushalgoud82@gmail.com
 - LinkedIn:https://www.linkedin.com/in/kaushal-kahar-goud-9b33b02aa/
