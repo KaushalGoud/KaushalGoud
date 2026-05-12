@@ -42,8 +42,6 @@ Welcome to my GitHub! I'm a passionate and curious developer who believes in con
 
 ---
 
-## ⚡ Fun Fact
-> I love turning tutorials into mini-projects and teaching others what I’ve learned 🚀
 
 ---
 
